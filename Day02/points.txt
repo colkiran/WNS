@@ -1,0 +1,125 @@
+Good Morning Everyone
+----------------------
+
+1. introduction
+
+
+Editor
+------
+Pycharm - CE 
+
+python - 
+
+-------------------------------------------------------
+
+why python?
+
+python is an opensource technology
+
+Desktop - Python and TK 
+
+Web Application - Flask, Django (MVC), pyramid
+
+Testing - Pytest, Roboframework.....
+
+Automation - paramiko(network)
+
+Data Engineering (ETL) - Petl
+
+WebScrapping -	Beautiful soup, Scrappy
+
+Data Science
+------------
+	a. Data Analytics (Numpy, Pandas, matplotlib, Seaborn)
+	b. ML -> algorithm
+	c. AI	-> Artificial Intelligence
+
+
+------------------------------------------------------------------------
+
+
+PERL - Practical Extraction and Reporting Language - 5.6 / 5.8 => 6.0 (special variables)
+
+
+------------------------------------------------------------------------
+
+python versions
+---------------
+
+2.x and 3.x
+-----------
+syntax changes
+---------------
+2.x
+---
+print "hello world"
+
+
+3.x
+---
+print("Hello world")
+
+
+flavours of Python
+-------------------
+
+1. Cpython			-	currently using
+2. Jython			-	python code -> Java code
+3. Iron Python		-  dot net
+
+
+
+Python
+------
+1. SDK	=> used to execute python scripts
+
+2. IDLE	=>	Integrated Development Environment (editor)
+
+3. Shell	=> python Subsystem in dos
+
+
+Operators overloaded
+--------------------
+
++ -> add two numbers and to concatenate stings
+
+* -> multiplying two numbers and to print a string n number of times
+
+2.x
+---
+Numbers
+-------
+	1. integers
+	2. Long
+	3. float
+	4. boolean
+
+
+
+Libraries are called as modules in python
+
+import os
+
+
+
+os and sys
+----------
+
+
+module 	- imp
+function - reload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
