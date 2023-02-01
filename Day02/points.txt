@@ -110,7 +110,92 @@ module 	- imp
 function - reload
 
 
+coding rules
+------------
 
+#! - shebang - path of python.exe
+
+-------------------------------------------
+
+
+comments
+---------
+# - comments (single line comments)
+
+
+strings
+-------
+strings are stored in  " " or ' ' - single line string
+
+multiline string enclosed in - """    """ or '''   '''
+
+
+"This is a single line comment"
+
+'This is a single line comment'
+
+
+
+"""
+This is a
+		multiple  line 
+					comment
+
+"""
+
+'''
+This is a
+		multiple  line 
+					comment
+
+'''
+
+"this is a string"
+
+
+
+indentation
+-----------
+
+print("hello world")
+
+
+funtion fun()
+	
+	# this code belongs to the function fun
+	
+	for x in range(1, 10):
+		
+		# this code belongs to the for loop
+		
+		if x > 5:
+
+			# this code belongs to if condition
+
+			print("x is greater")
+
+		else:
+		
+			print("y is greater")
+
+		# this code belongs to the for loop
+
+	# this code belongs to the function fun
+
+# this code belongs to the main module
+
+
+
+Primitive Datatypes
+--------------------
+1. Numbers
+	a. integers
+	b. float
+	c. complex numbers
+
+2. Strings
+
+3. Boolean
 
 
 
