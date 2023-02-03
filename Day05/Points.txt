@@ -1,0 +1,15 @@
+Tuples
+------
+tuples are immutable lists 
+
+tuples are enclosed in ()
+
+
+sets
+-----
+1. sets are unordered collection
+2. sets have unique values
+3. sets are not subscriptable
+4. sets are mutable
+5. sets are enclosed in {}
+

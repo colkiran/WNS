@@ -1,0 +1,52 @@
+==================================================
+Item                                         Price
+==================================================
+Apples                                        0.40
+Pears                                         0.50
+Cantaloupes                                   1.92
+Dried Apricots (16 oz.)                       8.00
+Prunes (4 lbs.)                              12.00
+==================================================
+
+
+Data Structures in Python
+-------------------------
+1. List
+2. Dictionary
+3. Tuples
+4. Sets
+
+
+Lists
+-----
+Similar to arrays on other technologies
+
+
+Array
+-----
+1. memory allocation is contigious
+
+2. collection of homogenous data
+
+Lists
+-----
+1. collection of hetrogenous data
+2. memory allocation is not contigious
+
+3. its a ordered collection
+4. it is subscriptable
+5. it is mutable
+6. enclosed in []
+
+
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+
+
+
+
+
+
+
+
+
