@@ -1,0 +1,78 @@
+Dictionary
+----------
+
+its an associative array
+
+
+Arrays
+------
+
+index => 0  1   2   3   4
+array => a  b   c   d   e
+
+
+Associative arrays
+------------------
+0:a,  1:b,  2:c,  3:d,  4:e
+
+keys   => 0, 1, 2, 3, 4 
+values => a, b, c, d, e
+
+
+Keys are user defined
+keys are always unique
+unordered collection
+dictionaries are enclosed in {key: value}
+
+Functions to manipulate the dictionary
+---------------------------------------
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+
+Copy -> Lists / dictionary
+==========================
+
+Shallow Copy => =
+
+Deep Copy	  => copy()
+
+---------------------------
+
+two dimensional arrays
+
+deep copy from copy module => from copy import deepcopy
+
+
+Data Structures
+===============
+1. lists
+2. dictionary
+3. tuples
+4. sets
+
+
+Functions
+---------
+def fun():
+	print("hello world")
+
+
+
+Define the function and then call it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
