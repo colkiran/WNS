@@ -1,0 +1,22 @@
+Scope of a variable
+--------------------
+1. global
+2. local
+3. non local
+
+Decorators
+----------
+
+@swap
+def sub(x, y):
+	
+	return(x - y)
+
+
+
+sub(20, 10)		=> 10
+sub(20, 30)		=> -10
+sub(10, 20)		=>	-10
+sub(50, 30)		=> 20
+
+
