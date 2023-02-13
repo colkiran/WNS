@@ -1,0 +1,58 @@
+Abstract Class
+--------------
+
+sub class into super class
+
+
+Packages and Modules
+--------------------
+
+Modules
+-------
+
+Modules are similar to libraries
+
+Any python file can be considered as a module
+
+
+Package
+-------
+its a folder that stores modules
+
+
+Parsing XML files 
+------------------
+
+XMLPrase
+--------
+read_XML_DOM
+read_XML_SAX
+
+write_XML_DOM
+write_XML_SAX
+
+
+2.x
+---
+every package should have a file __init__.py (empty)
+
+
+3.x
+---
+not mandatory
+
+import sample
+--------------
+
+sample.py  => sample.pyc
+
+
+
+
+
+
+
+
+
+
+
