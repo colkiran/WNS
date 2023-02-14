@@ -1,0 +1,69 @@
+where can we place the modules
+
+we can place it anywhere in the environment path
+
+-----------------------------------------------------------
+
+if there is a .pth file then import the path into sys.path
+
+from the path of .pth import the module
+
+check the date time of creation or mofication of .py and .pyc file
+
+if .py file has later date or time of creation compared to .pyc file then python will recomplie .pyc file 
+
+python will import the module into the current file
+
+
+-----------------------------------------
+import mymodule
+from mypackage import mymodule
+
+from mymodule import Player
+from mypackage.mymodule import Player, greet
+
+from mypackage import *
+
+
+
+------------------------------------------------------
+
+File Handling
+-------------
+
+open file in different modes
+
+1. read
+
+2. write 
+
+3. append
+
+
+text files -> ascii format
+
+seek(offset, whence)
+
+offset = no of bytes
+
+
+whence = 0   - BOF
+
+			 1		- CP
+
+			 2		- EOF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

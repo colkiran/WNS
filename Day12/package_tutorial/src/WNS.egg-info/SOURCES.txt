@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/WNS.egg-info/PKG-INFO
+src/WNS.egg-info/SOURCES.txt
+src/WNS.egg-info/dependency_links.txt
+src/WNS.egg-info/top_level.txt
+src/WNS_Package/__init__.py
+src/WNS_Package/wns.py
