@@ -1,0 +1,68 @@
+1. open the emp.csv file
+	
+	a. get me the count of males and females
+	b. unique list of dept and desig
+	c. sum of all salaries
+	d. sum of salaries of females who are working in HR dept
+
+
+['empid', 'empname', 'age', 'dept', 'salary']
+['501', 'Jack', '28', 'HR', '65000']
+['235', 'Jill', '34', 'FIN', '35000']
+['150', 'John', '26', 'AC', '25000']
+['325', 'Jai', '21', 'DEV', '55000']
+['450', 'Guru', '38', 'DEV', '85000']
+['182', 'Sita', '32', 'PRC', '75000']
+['297', 'Gita', '36', 'SUP', '60000']
+
+
+Excel files
+-----------
+xlrd, xlsxwriter, pyxlsb, xlwt, pylightxl
+
+openpyxl
+--------
+
+Excel File 
+----------
+
+excel files	-	Workbook
+
+pages			-	Worksheet - names
+
+grid	-
+		- rows		- horizontal lines are called as rows
+		- cols		- vertical lines are called as columns
+
+
+						- rows are numbered	-	1...1048576
+						- cols are labeled	-	a, b, c, d,...z, aa, ab.... az...xfd 															(16384)
+
+
+cell
+----
+will have an address which is used to extract the data 
+
+address = colname + rowno
+		  =   A     + 10	   => A10 
+
+
+add values => c6 = c4 + c5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
