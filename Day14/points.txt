@@ -1,0 +1,25 @@
+DataBase Connectivity
+---------------------
+
+Mysql				-	pymysql
+	
+Postgres			-	psycopg2
+
+Oracle			- cx_Oracle
+
+Sql Server 		- pyODBC
+
+MongoDB			- pymongo
+
+
+sql Alchemy			-	ORM - Object Realtion mapping
+
+
+
+
+
+
+
+
+
+

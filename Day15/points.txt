@@ -1,0 +1,42 @@
+Numpy, Pandas and Matplotlib
+----------------------------
+
+Numpy
+-----
+
+1995 - Hugunin - Numarray
+
+2006 - Travis Oliphant - Numpy
+
+
+1. collection homogenous data with n dimension
+
+2. Array size is freezed once created
+
+
+
+Broadcasting
+------------
+
+A = 2d array	=> 4 x 3
+B = 1d array =>     3
+
+result		   => 4 x 3
+
+
+
+Mismatch
+--------
+A = 2d array	=> 4 x 3
+B = 1d array =>     4
+
+
+
+
+
+
+
+
+
+
+
